@@ -1,0 +1,8 @@
+Loading .Rprofile for the current workflowr project
+This is workflowr version 1.7.0
+Run ?workflowr for help getting started
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+Error in map(., ~read_scrublet(.x, fpr = cb_fpr)) : ℹ In index: 1.
+Caused by error:
+! '/data/PRJNA723345/scrublet/SRR14289035/SRR14289035_scrublet_calls_FPR_0.01.tsv' does not exist.
